@@ -70,9 +70,9 @@ I already have some experience and know how to work with Figma, Prepos, Tailwind
 
 2021 - 2022 THE ROLLING SCOPES SCHOOL JS/FE PRE-SCHOOL 2022 (JAVASCRIPT).
 
-> Certified: https://app.rs.school/certificate/0u11ev3e
+> [Certificate] (https://app.rs.school/certificate/0u11ev3e)
 
-2022 - 2023 THE ROLLING SCOPES SCHOOL NODE JS 2022 (JAVASCRIPT, TYPESCRIPT). Certified
+2022 - 2023 THE ROLLING SCOPES SCHOOL NODE JS 2022 (JAVASCRIPT, TYPESCRIPT).
 
 ### Expierence ###
 
