@@ -68,11 +68,12 @@ I use Visual Studio Code in general.
 
 I already have some experience and know how to work with Figma, Prepos, Tailwind Css, Postman, Docker, Nest JS and some other libriries and farmeworks else. And i'm studying React-library right now
 
-2021 - 2022 THE ROLLING SCOPES SCHOOL JS/FE PRE-SCHOOL 2022 (JAVASCRIPT).
+#### THE ROLLING SCOPES SCHOOL
 
-> [Certificate] (https://app.rs.school/certificate/0u11ev3e)
-
-2022 - 2023 THE ROLLING SCOPES SCHOOL NODE JS 2022 (JAVASCRIPT, TYPESCRIPT).
+ date      | course                |certificate
+ ----------|-----------------------|---------------------------------------
+ 2021-2022 | JS/FE PRE-SCHOOL 2022 |[Certificate](https://app.rs.school/certificate/0u11ev3e)
+ 2022-2023 | NODE JS 2022          |[Certificate](https://app.rs.school/certificate/0u11ev3e)
 
 ### Expierence ###
 
@@ -80,11 +81,11 @@ Here's some completed tasks:
 
 * from RS School FrontEnd course stage 0 
 
-https://rolling-scopes-school.github.io/alitalia60-JSFEPRESCHOOL/tic-tac-toe/
+[tic-tac-toe](https://rolling-scopes-school.github.io/alitalia60-JSFEPRESCHOOL/tic-tac-toe/)
 
 * and from RS SChool Node.js course
 
-https://github.com/Alitalia60/simple-crud-api/tree/simple_crud_api
+[simple_crud_ap](https://github.com/Alitalia60/simple-crud-api/tree/simple_crud_api)
 
 
 ### Languages ###
