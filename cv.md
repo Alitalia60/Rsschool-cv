@@ -58,7 +58,7 @@ Now, I continue to study HTML, CSS, JavaScript, Node.js, TypeScript and a lot ot
 
 I don't work in the IT field just now.
 
-As engineer , I was created some electronic units on microcontrollers, and create programs for it on Assembler, C++. At my job, i developed specific database fo enterprise, payment accounting program for utilities, for cable TV.
+As an engineer, I was engaged in the creation of some electronic blocks on microcontrollers and programs for them (in assembler, C ++). In my work, I developed application databases for the enterprise, a program for accounting for utility bills, cable television.
 
 Just now i'm working as a sysadmin at own company and continue to support some businesses that do not have their own sysadmin.
 
@@ -81,7 +81,7 @@ I already have some experience and know how to work with Figma, Prepos, Tailwind
 | date      | course                | certificate                                               |
 | --------- | --------------------- | --------------------------------------------------------- |
 | 2021-2022 | JS/FE PRE-SCHOOL 2022 | [Certificate](https://app.rs.school/certificate/0u11ev3e) |
-| 2022-2023 | NODE JS 2022          | [Certificate](https://app.rs.school/certificate/0u11ev3e) |
+| 2022-2023 | NODE JS 2022          | [Certificate](https://app.rs.school/certificate/dqr2d07l) |
 
 ### Expierence
 
