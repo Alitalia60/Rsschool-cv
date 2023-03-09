@@ -1,5 +1,7 @@
-# Andrew Litvinov #
+# Andrew Litvinov # 
+![89775314](https://user-images.githubusercontent.com/89775314/223960104-db29769d-4985-4a39-a5d2-652d3924f646.png)
 
+---
 ### Contacts ###
 
 * viber/tel: +37529 ***-**-**
