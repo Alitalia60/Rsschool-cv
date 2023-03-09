@@ -45,25 +45,35 @@ I like to learn everything new in programming.
 Now, I continue to study HTML, CSS, JavaScript, Node.js, TypeScript and a lot other usefull and interesting things at school.
 
 ### Work experience ###
+
 I don't work in the IT field just now. 
+
 As engineer , I was created some electronic units on microcontrollers, and create programs for it on Assembler, C++. At my job, i developed specific database fo enterprise, payment accounting program for utilities, for cable TV.
+
 Just now i'm working as a sysadmin at own company and continue to support some businesses that do not have their own sysadmin.
 
 ### Education ###
+
 Higher education: Yuri Gagarin State Technical University of Saratov (modern name). Engineer, specialty automation and telemechanics.
 
 ### Self-education ###
+
 Platforms 1C6, 1C7, 1C8 Enterprise. in the process of continue studying JavaScript again;
+
 Finished course NODE JS
-I use Visual Studio Code in general. I already have some experience and know how to work with Figma, Prepos, Tailwind Css, Postman, Docker, Nest JS and some other libriries and farmeworks else. And i'm studying React-library right now
+
+I use Visual Studio Code in general.
+
+I already have some experience and know how to work with Figma, Prepos, Tailwind Css, Postman, Docker, Nest JS and some other libriries and farmeworks else. And i'm studying React-library right now
 
 2021 - 2022 THE ROLLING SCOPES SCHOOL JS/FE PRE-SCHOOL 2022 (JAVASCRIPT).
 
- > Certified: https://app.rs.school/certificate/0u11ev3e
+> Certified: https://app.rs.school/certificate/0u11ev3e
 
 2022 - 2023 THE ROLLING SCOPES SCHOOL NODE JS 2022 (JAVASCRIPT, TYPESCRIPT). Certified
 
 ### Expierence ###
+
 Here's some completed tasks:
 
 * from RS School FrontEnd course stage 0 
