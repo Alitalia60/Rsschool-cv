@@ -11,50 +11,18 @@
 - E-mail: lita.private@gmail.com
 - discord: Alitalia60#5200
 
+---
+
 ### About myself
 
 I am an entrepreneur. my work is always close to computers and programming. I have no experience in modern IT although my experience in programming such as 1C Enterprise is long.
 
-<details><summary>Here is some code example from Node.js</summary>
-
-```js
-const express = require('express');
-const path = require('path');
-const userRouter = require('./resources/users/user.router');
-const app = express();
-app.use(express.json());
-app.use('/', (req, res, next) => {
-  if (req.originalUrl === '/') res.send('Service is running!';
-  next();
-});
-app.use('/users', userRouter);
-module.exports = app;
-}
-```
-
-</details>
-
-<details><summary>and task from Codewars</summary>
-
-```js
-var countBits = function (n) {
-  // Program Me
-  let res = 0;
-  let binaryN = n.toString(2);
-  // console.log(binaryN);
-  for (let index = 0; index < binaryN.length; index++) {
-    res += Number(binaryN[index]);
-  }
-  return res;
-};
-```
-
-</details>
-
 I like to learn everything new in programming.
 Now, I continue to study HTML, CSS, JavaScript, Node.js, TypeScript and a lot other usefull and interesting things at school.
 
-### Work experience
+---
+
+### Work experiencestatus
 
 I don't work in the IT field just now.
 
@@ -62,9 +30,13 @@ As an engineer, I was engaged in the creation of some electronic blocks on micro
 
 Just now i'm working as a sysadmin at own company and continue to support some businesses that do not have their own sysadmin.
 
+---
+
 ### Education
 
 Higher education: Yuri Gagarin State Technical University of Saratov (modern name). Engineer, specialty automation and telemechanics.
+
+---
 
 ### Self-education
 
@@ -94,6 +66,46 @@ Here's some completed tasks:
 - and from RS SChool Node.js course
 
 [simple_crud_ap](https://github.com/Alitalia60/simple-crud-api/tree/simple_crud_api)
+
+Here is some code example
+
+<details><summary>... from Node.js</summary>
+
+```js
+const express = require('express');
+const path = require('path');
+const userRouter = require('./resources/users/user.router');
+const app = express();
+app.use(express.json());
+app.use('/', (req, res, next) => {
+  if (req.originalUrl === '/') res.send('Service is running!';
+  next();
+});
+app.use('/users', userRouter);
+module.exports = app;
+}
+```
+
+</details>
+
+<details><summary>... from Codewars</summary>
+
+```js
+var countBits = function (n) {
+  // Program Me
+  let res = 0;
+  let binaryN = n.toString(2);
+  // console.log(binaryN);
+  for (let index = 0; index < binaryN.length; index++) {
+    res += Number(binaryN[index]);
+  }
+  return res;
+};
+```
+
+## </details>
+
+---
 
 ### Languages
 
